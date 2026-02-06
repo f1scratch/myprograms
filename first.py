@@ -1,2 +1,6 @@
-# This is a comment
-print("what sup'?")
+# num1 = 6
+# num2 = 7
+# print(num1+num2)
+num1 = int(input("Enter value for num1: "))
+num2 = int(input("Enter value for num2: "))
+print(num1+num2)
